@@ -1,0 +1,17 @@
+body {
+    background-color: #eaf2f8;
+    font-family: Arial, sans-serif;
+}
+
+.card {
+    margin-top: 50px;
+    border: 1px solid gray;
+}
+
+h2 {
+    color: blue;
+}
+
+#result {
+    font-size: 18px;
+}

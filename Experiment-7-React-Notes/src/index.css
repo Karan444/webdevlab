@@ -1,0 +1,13 @@
+body {
+  background-color: #f4f6f9;
+  font-family: Arial, sans-serif;
+}
+
+.card {
+  border-radius: 10px;
+  border: none;
+}
+
+h1 {
+  color: #0d6efd;
+}

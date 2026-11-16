@@ -1,0 +1,25 @@
+
+#root {
+  width: 100%;
+  min-height: 100vh;
+}
+
+body {
+  background-color: #f4f6f9;
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  color: #333;
+  font-weight: bold;
+}
+
+.card {
+  border: none;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+}
+
+textarea {
+  resize: vertical;
+}
